@@ -1,2 +1,2 @@
-# Sadi-Rasoi-PHP-project
+# Sadi-Rasoi-php-project
  It is a practice project, created just to clear my fundamentals of the language.
