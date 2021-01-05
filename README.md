@@ -4,4 +4,4 @@
  ### Live at : https://sadi-rasoi.herokuapp.com/
  
  ### To run the project on the local system :
- #### 1)
+ #### 1)Download XAMPP server.
