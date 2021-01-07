@@ -4,7 +4,7 @@
 
 ### Live at : https://sadi-rasoi.herokuapp.com/
 
-#### Live Screen-Shots : <br>
+#### Live Screen-Shots : 
 
  <p float="left">
  <kbd><img style="border: 5px solid black" src="https://github.com/techschneiderrr/sadi-rasoi-php-project/blob/main/img/1.png?raw=true" width="350"></kbd>  
