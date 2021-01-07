@@ -6,7 +6,7 @@
 
 #### Live Screen-Shots : 
 
- <p style="align-content:center" float="left">
+ <p float="left">
  <kbd><img style="border: 5px solid black" src="https://github.com/techschneiderrr/sadi-rasoi-php-project/blob/main/img/1.png?raw=true" width="420"></kbd>  
  <kbd><img style="border: 5px solid black" src="https://github.com/techschneiderrr/sadi-rasoi-php-project/blob/main/img/2.png?raw=true" width="420"></kbd>
  </p>
