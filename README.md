@@ -3,7 +3,8 @@
  ### It is a practice project, created just to clear my fundamentals of the language.
  ### Live at : https://sadi-rasoi.herokuapp.com/
  #### Live Screen-Shots : <br>
- <img src="https://github.com/techschneiderrr/sadi-rasoi-php-project/blob/main/img/1.png?raw=true" width="250">  
+ <img src="https://github.com/techschneiderrr/sadi-rasoi-php-project/blob/main/img/1.png?raw=true" width="350">  
+ <img src="https://github.com/techschneiderrr/sadi-rasoi-php-project/blob/main/img/2.png?raw=true" width="350"> 
 
  ### To run the project on the local system :
  #### 1)Download XAMPP server.
