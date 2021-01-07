@@ -7,8 +7,8 @@
 #### Live Screen-Shots : <br>
 
  <p float="left">
- <img style="border: 1px solid black" src="https://github.com/techschneiderrr/sadi-rasoi-php-project/blob/main/img/1.png?raw=true" width="350">  
- <img style="border: 1px solid black" src="https://github.com/techschneiderrr/sadi-rasoi-php-project/blob/main/img/2.png?raw=true" width="350"> 
+ <img style="border: 5px solid black" src="https://github.com/techschneiderrr/sadi-rasoi-php-project/blob/main/img/1.png?raw=true" width="350">  
+ <img style="border: 5px solid black" src="https://github.com/techschneiderrr/sadi-rasoi-php-project/blob/main/img/2.png?raw=true" width="350"> 
  </p>
 
 ### To run the project on the local system :
