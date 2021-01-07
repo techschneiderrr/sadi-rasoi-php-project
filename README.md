@@ -8,7 +8,7 @@
 
  <p float="left">
  <img src="https://github.com/techschneiderrr/sadi-rasoi-php-project/blob/main/img/1.png?raw=true" width="350">  
- <img src="https://github.com/techschneiderrr/sadi-rasoi-php-project/blob/main/img/2.png?raw=true" width="350"> 
+ <img border="1"src="https://github.com/techschneiderrr/sadi-rasoi-php-project/blob/main/img/2.png?raw=true" width="350"> 
  </p>
 
 ### To run the project on the local system :
