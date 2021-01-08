@@ -8,8 +8,8 @@
 
  <p float="left">
 
- <kbd><img  src="https://github.com/techschneiderrr/sadi-rasoi-php-project/blob/main/img/1.png?raw=true" width="300"></kbd>  
- <kbd><img  src="https://github.com/techschneiderrr/sadi-rasoi-php-project/blob/main/img/2.png?raw=true" width="300"></kbd>
+ <img  src="https://github.com/techschneiderrr/sadi-rasoi-php-project/blob/main/img/1.png?raw=true" width="300">< 
+ <img  src="https://github.com/techschneiderrr/sadi-rasoi-php-project/blob/main/img/2.png?raw=true" width="300">
 
  </p>
 
