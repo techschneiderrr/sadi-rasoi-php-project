@@ -1,4 +1,4 @@
-# Sadi-Rasoi-php-Project zzcvfdc fdbc dfcbv fbcv rgdfvc
+# Sadi-Rasoi-php-Projectdgfvc
 
 ### It is a practice project, created just to clear my fundamentals of the language.
 ### Database used for the project is : Mysql
