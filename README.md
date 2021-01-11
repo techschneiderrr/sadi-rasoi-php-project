@@ -1,4 +1,4 @@
-# Sadi-Rasoi-php-Project dfgcvfdfdbcv
+# Sadi-Rasoi-php-Project dfgcvfdfdbcvfgbcv
 
 ### It is a practice project, created just to clear my fundamentals of the language.
 ### Database used for the project is : Mysql
