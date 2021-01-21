@@ -27,4 +27,4 @@
 
 #### 5)Voila its running now !!!
 
-##### For more such codes you
+##### For more such codes you can
