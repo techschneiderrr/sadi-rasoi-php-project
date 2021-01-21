@@ -19,7 +19,7 @@
     </style>
 </head>
 
-<body class="grey lighten-4">
+<body class="grey lighten-3">
     <nav class="white z-depth-0">
         <div class="container">
             <a href="#" class="brand-logo brand-text">Sadi Rasoi</a>
