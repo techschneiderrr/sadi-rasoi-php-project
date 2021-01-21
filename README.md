@@ -26,3 +26,5 @@
 #### 4)In the browser, navigate to localhost:8080/\<folder-name>/index.php.
 
 #### 5)Voila its running now !!!
+
+##
