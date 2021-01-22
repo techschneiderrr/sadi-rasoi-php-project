@@ -27,4 +27,4 @@
             <ul id="nav-mobile" class="right hide-on-small-and-down">
                 <li><a href="add.php" class="btn brand z-depth-0">Add a Dish</a></li>
             </ul>
-        </div>rft
+        </div>
